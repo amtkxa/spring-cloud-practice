@@ -18,4 +18,8 @@
         <relativePath/>
     </parent>
 
+    <modules>
+        <module>spring-cloud-config</module>
+    </modules>
+
 </project>
